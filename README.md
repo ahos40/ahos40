@@ -26,13 +26,22 @@
 
 <h2>🛠️ Technologies & Tools</h2>
 
+**💻 Languages**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,git,github,idea,vscode&perline=7" alt="Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,c,python,bash,latex,md" alt="Languages" />
 </p>
 
-**Also comfortable with:** Unit Testing · Refactoring · Profiling · OOP · Agile/Scrum
+**🧰 IDEs & Editors**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,sublime" alt="IDEs and Editors" />
+</p>
+
+**🐧 OS & Version Control**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,git,github" alt="OS and Version Control" />
+</p>
+
+**Also comfortable with:** Unit Testing (JUnit) · Refactoring · Profiling · OOP · Agile/Scrum
 
 <h2>💼 Experience</h2>
 
